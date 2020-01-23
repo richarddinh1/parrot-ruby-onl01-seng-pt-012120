@@ -26,5 +26,4 @@ end
 
 def parrot("Squawk!")
   puts #{Squawk!}
-  phrase = parrot
 end
